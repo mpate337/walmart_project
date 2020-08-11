@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-10T16:21:44 EDT" name="Default suite" finished-at="2020-08-10T16:22:57 EDT" duration-ms="72939">
+    <groups>
+    </groups>
+    <test started-at="2020-08-10T16:21:44 EDT" name="Default test" finished-at="2020-08-10T16:22:57 EDT" duration-ms="72939">
+      <class name="TestCases.Loginpage_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:21:44 EDT" name="setup" finished-at="2020-08-10T16:21:56 EDT" duration-ms="12050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logolinktest()[pri:1, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:21:56 EDT" name="logolinktest" finished-at="2020-08-10T16:22:02 EDT" duration-ms="5547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logolinktest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:02 EDT" name="setup" finished-at="2020-08-10T16:22:13 EDT" duration-ms="11609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillformTestInvalidEmailLogin()[pri:2, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:13 EDT" name="fillformTestInvalidEmailLogin" finished-at="2020-08-10T16:22:20 EDT" duration-ms="7163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillformTestInvalidEmailLogin -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:20 EDT" name="setup" finished-at="2020-08-10T16:22:33 EDT" duration-ms="12126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillformTestEmptypwdLogin()[pri:3, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:33 EDT" name="fillformTestEmptypwdLogin" finished-at="2020-08-10T16:22:39 EDT" duration-ms="6313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillformTestEmptypwdLogin -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:39 EDT" name="setup" finished-at="2020-08-10T16:22:51 EDT" duration-ms="11979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fillformTestErrorMsgLogin()[pri:4, instance:TestCases.Loginpage_test@776b83cc]" started-at="2020-08-10T16:22:51 EDT" name="fillformTestErrorMsgLogin" finished-at="2020-08-10T16:22:57 EDT" duration-ms="6095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillformTestErrorMsgLogin -->
+      </class> <!-- TestCases.Loginpage_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
